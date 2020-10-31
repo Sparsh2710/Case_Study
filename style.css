@@ -1,0 +1,66 @@
+body {
+    background-color: rgb(214, 255, 255);
+}
+
+h1 {
+    padding-bottom: 10px;
+    margin: 40px 0px 0px 250px;
+    text-align: center;
+    width: 60%;
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-size: 50px;
+    color: white;
+    font-family: 'Staatliches', cursive;
+    background-color: #91c0ff;
+    height: 100px;
+    border: solid 3px dodgerblue;
+    border-radius: 15px;
+}
+
+ol {
+    background-color: white;
+    border-radius: 20px;
+    border: solid 3px dodgerblue;
+    box-shadow: 8px 8px 10px rgb(255, 255, 255);
+    margin: -22px 60px 0px 60px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    color: rgb(9, 56, 102);
+    font-family: 'Quicksand', sans-serif;
+    text-align: left;
+}
+
+h3 {
+    font-size: 25px;
+    color: rgb(9, 56, 102);
+    font-family: 'Balsamiq Sans', cursive;
+}
+
+h4 {
+    letter-spacing: 3px;
+    word-spacing: 10px;
+    font-size: 20px;
+    color: rgb(9, 56, 102);
+    font-family: 'Staatliches', cursive;
+}
+
+hr {
+    width: 95%;
+    border: solid 4px dodgerblue;
+    border-radius: 5px;
+}
+
+.mini_result {
+    background-color: rgba(150, 202, 255, 0.226);
+    border: solid 2px dodgerblue;
+    border-radius: 10px;
+    margin: 5px 40px 10px 0px;
+}
+
+span {
+    color: orange;
+}
